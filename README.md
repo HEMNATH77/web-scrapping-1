@@ -9,7 +9,12 @@
    <ul>Price</ul>
    <ul>Description</ul>
    <ul>Review Counts</ul>
-<p>The data is gathered from an e-commerce website designed for web scraping practice. After scraping, the data is stored in a CSV file for easy access and analysis.</p>   
+<p>The data is gathered from an e-commerce website designed for web scraping practice. After scraping, the data is stored in a CSV file for easy access and analysis.</p>  
+
+
+
+https://github.com/user-attachments/assets/c257afcb-5447-436a-a069-1db058e6ef21
+
 
 <h1>Libraries Used</h1>
 <ol>1. requests: To send HTTP requests to the website.</ol>
